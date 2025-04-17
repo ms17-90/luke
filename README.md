@@ -8,7 +8,7 @@ gcc -o luck.c luck -lcurl -lpthread
 # 编译完成的可执行二进制程序到系统级目录
 sudo mv /home/android/luke/src/luke /usr/local/bin #补充一点 把android替换成你们的用户名
 bash ：
-luck 目标网站 用户数量 请求数量 # 回车一下就可以执行了
+luke 目标网站 用户数量 请求数量 # 回车一下就可以执行了
 # 开发者说的话
 debin&Ubunto
 Arch&arco
